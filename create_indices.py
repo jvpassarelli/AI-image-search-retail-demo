@@ -23,7 +23,7 @@ if __name__ == "__main__":
 
         f = 768  # Length of item vector that will be indexed
 
-        t = AnnoyIndex(f, "cosine")
+        t = AnnoyIndex(f, "angular")
         for i, img_pth in enumerate(pths):
             idx_to_relative_pth[i] = img_pth
 
