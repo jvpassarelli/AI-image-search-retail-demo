@@ -1,6 +1,7 @@
 # AI-image-search-retail-demo
 
-<p> An AI image search demo. Search fashion product images using natural language search</p>
+<p> An AI image search demo. Searches fashion product images using natural language search.
+</p>
 
 <h5> Key Components: </h5>
 <ul>
