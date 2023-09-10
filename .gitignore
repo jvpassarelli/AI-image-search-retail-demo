@@ -1,0 +1,48 @@
+# Ignore Python cache files
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments (if you use virtualenv or venv)
+venv/
+env/
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore local development configuration
+.env
+
+# Ignore Jupyter Notebook metadata
+*.ipynb_checkpoints
+*.ipynb-meta
+
+# Ignore Jupyter Notebook kernel connection files
+*.kernel.json
+
+# Ignore Jupyter Notebook output
+*.ipynb_output
+
+# Ignore the Python cache directory
+.python-version
+
+# Ignore Jupyter Notebook workspace files
+.nbconvert/
+.nbclient/
+
+# Ignore any other temporary or generated files/directories
+__init__.pyc
+*.log
+*.db
+*.sqlite3
+*.db-journal
+*.sqlite3-journal
+*.html
+*.csv
+*.json
+*.pickle
+*.gz
+*.h5
+*.tar.gz
+*.egg-info/
