@@ -1,7 +1,13 @@
 # AI-image-search-retail-demo
 
-<h5> An AI image search demo. Search fashion product images using natural language search</h5>
+<p> An AI image search demo. Search fashion product images using natural language search</p>
 
+<h5> Key Components: </h5>
+<ul>
+  <li>AI Model: OpenAI CLIP</li>
+  <li>Vector Database: Spotify Annoy</li>
+  <li>Fashion Product Dataset https://www.google.com/url?q=https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small&sa=D&source=docs&ust=1694384517307927&usg=AOvVaw2jnPdEnDJXgPRKDt6dfp2u</li>
+</ul>  
 
 
 
